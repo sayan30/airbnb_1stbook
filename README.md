@@ -1,0 +1,5 @@
+Introduction:
+Airbnb is a peer to peer online marketplace for renting and listing short term accommodation in residential properties. The company has achieved world-wide presence in a short span of time. The business model is based on dual earning from both the guest and host as a percentage fee of the total booking. It has over 2,000,000 listings in 34,000 cities and 191 countries. With such large geographical presence and global customer base, it becomes difficult for Airbnb to optimize marketing activities. The initial wait times for 1st time user to book an accommodation through Airbnb is comparatively high. Airbnb wants to channelize marketing initiative targeted towards the right customer segment. 
+
+Objective:
+The objective of this business problem is to forecast the destination country for customers at 1st time booking. By able to forecast the destination country of 1st booking, Airbnb aims to implement Targeted marketing activities to the right Customer segment. Through this Airbnb wants to reduce average time to 1st time booking & better forecast demand.  
